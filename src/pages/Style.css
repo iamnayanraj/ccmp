@@ -1,0 +1,20 @@
+.HomeBg{
+        height:750px;
+        width:100%;
+        background:url('./Storage/Background.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+}
+.HomeBtn{
+    position:relative;
+    top:100px;
+    display: inline-flex;
+    left: 590px;
+} 
+.heading{
+    text-align:center;
+    color:black;
+    padding-top:200px;
+}
